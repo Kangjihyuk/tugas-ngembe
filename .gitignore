@@ -1,0 +1,12 @@
+# Environment file (berisi API key dan password)
+.env
+
+# Dependencies / Vendor (jika kelak menggunakan composer)
+/vendor/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log

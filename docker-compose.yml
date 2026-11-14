@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  sisurat-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sisurat-app
+    restart: unless-stopped
+    ports:
+      - "8000:80"
+    volumes:
+      - ./:/var/www/html
+    env_file:
+      - .env

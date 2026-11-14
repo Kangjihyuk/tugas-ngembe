@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "kode_tiket": "NGB-202611-001",
+        "nik": "3514051208940001",
+        "nama": "Ahmad Fauzi",
+        "no_hp": "081234567890",
+        "dusun": "Dusun Ngembe",
+        "rt_rw": "RT 02 \/ RW 01",
+        "jenis_surat": "Surat Keterangan Usaha (SKU)",
+        "keperluan": "Pengajuan tambahan modal usaha warung sembako ke bank",
+        "status": "Selesai",
+        "catatan_petugas": "Surat telah ditandatangani Kepala Desa dan siap diambil di loket pelayanan.",
+        "created_at": "2026-11-12 09:30:00"
+    },
+    {
+        "id": 2,
+        "kode_tiket": "NGB-202611-002",
+        "nik": "3514055502980003",
+        "nama": "Siti Nurhaliza",
+        "no_hp": "085712345678",
+        "dusun": "Dusun Krikilan",
+        "rt_rw": "RT 04 \/ RW 02",
+        "jenis_surat": "Surat Pengantar SKCK",
+        "keperluan": "Pemberkasan seleksi penerimaan karyawan di kawasan industri Beji",
+        "status": "Diproses",
+        "catatan_petugas": "Sedang diverifikasi oleh Kasi Pemerintahan.",
+        "created_at": "2026-11-13 14:15:00"
+    },
+    {
+        "id": 3,
+        "kode_tiket": "NGB-202611-003",
+        "nik": "3514052309900002",
+        "nama": "Budi Santoso",
+        "no_hp": "087812349988",
+        "dusun": "Dusun Grogolan",
+        "rt_rw": "RT 01 \/ RW 03",
+        "jenis_surat": "Surat Keterangan Domisili (SKD)",
+        "keperluan": "Persyaratan pembukaan rekening bank baru",
+        "status": "Diajukan",
+        "catatan_petugas": "Menunggu verifikasi berkas oleh petugas loket.",
+        "created_at": "2026-11-14 10:05:00"
+    }
+]
